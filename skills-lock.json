@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "neobrutalist-web-designer": {
+      "source": "erichowens/some_claude_skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/neobrutalist-web-designer/SKILL.md",
+      "computedHash": "3d892d7fa39233e72045c3858e49d3f57999d5eb7a551ce4c2f5c66a983b32e7"
+    }
+  }
+}
